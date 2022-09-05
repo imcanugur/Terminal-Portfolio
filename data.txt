@@ -1,5 +1,3 @@
-
-<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 <h3><span id="a">ugurcan@CAN</span>:<span id="b">~</span><span id="c">$</span> ls</h3><h3> whoiam.txt contactme.txt devolop.txt </h3>
 <h3><span id="a">ugurcan@CAN</span>:<span id="b">~</span><span id="c">$</span> cat whoiam.txt</h3><h2> Merhaba, Ben Uğur CAN </h2><h3><a href = "https://www.firat.edu.tr/tr/">Fırat Üniversitesi</a><a href = "http://yaz.tf.firat.edu.tr/tr/"> Yazılım Mühendisliği </a>1. Sınıf öğrencisiyim.</h3> <h3>Web, .Net Framework ve çok istekli olduğum İşletim Sistemleri üzerinde kendimi geliştiriyor ve çalışmalarımı gerçekleştiriyorum.</h3>
 <h3><span id="a">ugurcan@CAN</span>:<span id="b">~</span><span id="c">$</span> cat contactme.txt</h3><h3><h3>Geliştirmekte olduğunuz projeler hakkında sorular sorabilirsiniz. Her zaman yardımcı olmaya çalışacağım.
@@ -10,7 +8,7 @@ YouTube hesabımda yakında zamanda tekrar başlayarak deneyimlerimi aktaracağ�
 <a href = "https://www.twitter.com/imcanugur/">Twitter</a>
 <a href = "https://join.skype.com/invite/mtHTtA20c5ea">Skype</a>
 <a href = "https://youtube.com/channel/UCGLlAX77MKfwJEdsO-v729Q">YouTube</a>
-<a href = "#">Linkedin</a><!-- https://www.linkedin.com/in/u%C4%9Fur-can-7769831b2  -->
+<a href = "https://www.linkedin.com/in/can-ugur/">Linkedin</a><!-- https://www.linkedin.com/in/can-ugur/ -->
 </h3>
 <h3><span id="a">ugurcan@CAN</span>:<span id="b">~</span><span id="c">$</span> cat devolop.txt</h3><h3>Uzun vadede, geliştirme aşamasındaki projelerimi GitHub üzerinden, son kullanıcı kullanımı için uygun projeleri bir girişim olarak kendi oluşturduğum bir marka altında yayınlayacağım.
 
