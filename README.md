@@ -1,2 +1,2 @@
 # Terminal-Portfolio
-www.ugurcan.rf.gd 
+www.ugurcan.live
